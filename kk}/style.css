@@ -1,0 +1,21 @@
+*{
+
+	padding: 1;
+	margin: 2;
+}
+form{
+
+	padding: 10px 100px;
+	box-shadow:  90px #12F066 rgba(0,0,0,0.2);
+	border-radius: 20px;
+  width: 980px;
+  background-color:#EF39FA;
+
+}
+
+::placeholder {
+
+color: #333131;
+font-size: 14;
+
+}
